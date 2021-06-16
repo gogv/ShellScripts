@@ -6,8 +6,8 @@
 
 ## trojan.sh
 
-trojan web管理界面
-source <(curl -sL https://git.io/trojan-install)
+trojan web管理界面:
+`source <(curl -sL https://git.io/trojan-install)`
 
 ## PAC规则
 
